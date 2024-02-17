@@ -28,6 +28,7 @@ public class Country {
     private Short indepYear;
     @NotNull
     private Long population;
+    private Double lifeExpectancy;
     private Double gnp;
     @NotNull
     private String localName;
